@@ -1,0 +1,28 @@
+Pradiniai Duomenys
+
+Komunalines Paslaugos
+--------------------------------------------------------------------------------
+| Paslaugos kodas |     Paslaugos pavadinimas |    Vieno menesio vieneto kaina |
+--------------------------------------------------------------------------------
+|               1 | Elektra                   |                             10 |
+|               2 | Vanduo                    |                             20 |
+|               3 | Siuksles                  |                            2,5 |
+--------------------------------------------------------------------------------
+
+Gyventoju duomenys
+-----------------------------------------------------------------------------------------------------------------------
+|         Pavardė |          Vardas |         Adresas |           Mėnuo | Paslaugos kodas |  Sunaudotų vienetų kiekis |
+-----------------------------------------------------------------------------------------------------------------------
+| Koba            | Doba            | Gatve           | Balandis        |               2 |                        22 |
+| Mhmm            | Raa             | Gatve           | Balandis        |               2 |                         1 |
+| Lala            | Lba             | Gatve           | Balandis        |               2 |                         1 |
+| Baba            | Zaba            | Gatve           | Rugpjutis       |               1 |                         5 |
+| Aba             | Daba            | Gatve           | Kovas           |               2 |                         3 |
+| Baba            | Zaba            | Gatve           | Rugpjutis       |               2 |                         5 |
+| Ca              | Ma              | Gatve           | Spalis          |               2 |                         1 |
+| Tada            | Taja            | Gatve           | Birzelis        |               3 |                         1 |
+| Xaxa            | Zaba            | Gatve           | Rugpjutis       |               3 |                         2 |
+| Tomas           | Cata            | Gatve           | Lapkritis       |               3 |                         2 |
+| Dobis           | Doba            | Gatve           | Balandis        |               2 |                         1 |
+| Baba            | Zaba            | Gatve           | Rugpjutis       |               1 |                         2 |
+-----------------------------------------------------------------------------------------------------------------------

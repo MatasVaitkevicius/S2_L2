@@ -1,0 +1,10 @@
+Rezultatai
+
+Gyventojai po pašalinimo, pašalinti buvo tie, kurie nemokėjo už nurodyta mėnesį (Balandis) ir paslaugą (Vanduo)
+-----------------------------------------------------------------------------------------------------------------------
+|         Pavardė |          Vardas |         Adresas |           Mėnuo | Paslaugos kodas |  Sunaudotų vienetų kiekis |
+-----------------------------------------------------------------------------------------------------------------------
+| Mhmm            | Raa             | Gatve           | Balandis        |               2 |                         1 |
+| Lala            | Lba             | Gatve           | Balandis        |               2 |                         1 |
+| Dobis           | Doba            | Gatve           | Balandis        |               2 |                         1 |
+-----------------------------------------------------------------------------------------------------------------------

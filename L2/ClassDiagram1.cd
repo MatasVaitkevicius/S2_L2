@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2.Residents">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAKAAgQABAAAAoAGAAAAABAAAiA=</HashCode>
+      <FileName>Residents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.ResidentsList">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAUAAAEKAABAAgAAASEQAAAAAAAAAAAAACgAAQAAA=</HashCode>
+      <FileName>ResidentsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.ResidentsNode">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResidentsNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.Utilities">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAgAAAABAA=</HashCode>
+      <FileName>Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.UtilitiesList">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAAEKAAAAAAAAACAAAAAAAAAAAAAAACAAAQAAA=</HashCode>
+      <FileName>UtilitiesList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.UtilitiesNode">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UtilitiesNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.CheapestMonth">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CheapestMonth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
